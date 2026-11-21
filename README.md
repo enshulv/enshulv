@@ -1,4 +1,4 @@
-[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/enshulv)](https://ghfind.com/u/enshulv?ref=badge)
+[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/enshulv?variant=radar)](https://ghfind.com/u/enshulv?ref=badge)
 
 ## Tokens & Cost
 
